@@ -7,7 +7,7 @@ const App = () => (
   <div className="container">
     <div>Name: instalkers</div>
     <div>Framework: react</div>
-    <div>Language: JavaScript</div>
+    <div>Language: TypeScript</div>
     <div>CSS: Empty CSS</div>
   </div>
 );
